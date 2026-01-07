@@ -13,7 +13,7 @@ To run the game after you loaded the game you type in run then press enter.
 
 To get to source code after you loaded the game you press escape key.
 
-This is a one to one port for the most part with the exception of addon mod support.
+This is a one to one port for the most part with the exception of addon mod support and description in description mechanic goes by really fast.
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Superhero_Tournament_Compacted/Superhero_Tournament_Compacted_Web/index.html">Play Game in Browser Here</a>
 
