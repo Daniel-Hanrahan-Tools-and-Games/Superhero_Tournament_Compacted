@@ -1,7 +1,7 @@
 # Superhero_Tournament_Compacted
 Compacted version of Superhero_Tournament is written in Lua
 
-Notice/title screen takes ten seconds to load the game on browser or you can press confirm.
+Notice/title screen waits until you press attack.
 
 Controls: z on keyboard or a on xbox style controllers to attack, x on keyboard or b on xbox style controllers to increase attack power.
 
