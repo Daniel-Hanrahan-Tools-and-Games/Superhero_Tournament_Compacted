@@ -26,7 +26,30 @@ This is a one to one port for the most part with the exception of addon mod supp
 
 
 
-CC BY-SA 4.0 and GNU GPL v3.0 Conditional Exceptions:
+CC BY-SA 4.0 and GNU GPL v3.0 Conditional Exceptions to use MPL 2.0 and CC BY-SA 4.0 or CC BY 4.0
+
+If the following condition is met, the licensing rules for both content covered by GNU GPL v3.0 and content not covered by GNU GPL v3.0 are modified as described below:
+
+Condition:
+
+The developer is distributing, porting, or integrating the software with platforms or environments that impose requirements incompatible with GPL-3.0, including but not limited to:
+- proprietary or non-redistributable SDKs
+- confidential hardware or platform documentation
+- legally required confidentiality obligations preventing full GPL redistribution
+- safety-regulated or certified systems where full GPL redistribution cannot be satisfied
+
+Effect on licensing:
+
+- Content covered by GNU GPL v3.0: May instead be used under the Mozilla Public License 2.0.
+
+- Content not covered by GNU GPL v3.0 (e.g., assets): Normally may be used under CC BY-SA 4.0. If ShareAlike requirements of CC BY-SA 4.0 prevent lawful distribution under the MPL alternative, developers may instead use CC BY 4.0 **solely to the extent necessary** to enable such distribution.
+
+These exceptions apply **only when the condition above is met**.
+
+
+
+
+CC BY-SA 4.0 and GNU GPL v3.0 Conditional Exceptions to use BSD-3-Clause and CC BY 4.0:
 
 If **either** of the following conditions is met, the licensing
 rules for both content covered by GNU GPL v3.0 and content not
